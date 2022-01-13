@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am currently studying Computer Science Major at **Cniversity of California Irvine**. This page was made for the ICSSC fellowship program.
+I am currently studying Computer Science Major at **University of California Irvine**. This page was made for the ICSSC fellowship program.
 
 If you want to join the fellowship program make sure to join the discord server. Make sure you have everything 
 
