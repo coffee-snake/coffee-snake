@@ -2,7 +2,7 @@
 
 My name is Brady and I go by he/him/his pronouns. I am currently studying Computer Science Major at **University of California Irvine**. 
 
-This page was made for the ICSSC fellowship program.If you want to join the fellowship program make sure to join the discord server.  
+This page was made for the ICSSC fellowship program. If you want to join the fellowship program make sure to join the discord server.  
 
 If you are having trouble please visit [here](https://icssc.notion.site/Git-ing-GitHub-Setup-f1eb07376cad4f2290b3db65777734ca)!
 
