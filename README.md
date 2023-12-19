@@ -1,6 +1,5 @@
-### Hello there 👋
+### Hello welcome to Brady's github page👋
 
-My name is Brady and I go by he/him/his pronouns. I am currently studying Computer Science Major at **University of California Irvine**. 
 
-Always excited to work on new projects. You can contact me at zwu25@uci.edu.
+I'm always excited to work on new projects. Feel free to contact me at bradywu@gmail.com
 
